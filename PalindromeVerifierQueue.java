@@ -1,4 +1,5 @@
 import java.util.*;
+
 class PalindromeVerifierQueue {
 
     public static void main(String[] args) {
